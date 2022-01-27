@@ -8,6 +8,7 @@ namespace HelloWorldConsoleApp
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Sample Created for Demo on GIT");
+            Console.WriteLine("Some more text Added");
         }
     }
 }
