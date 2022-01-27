@@ -7,6 +7,7 @@ namespace HelloWorldConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Sample Created for Demo on GIT");
         }
     }
 }
